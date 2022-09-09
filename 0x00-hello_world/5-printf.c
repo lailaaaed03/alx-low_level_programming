@@ -1,9 +1,13 @@
-#include <stdio.h>
+#include "stdio.h"
+#include "stdlib.h"
+
 /**
  * main - Entry point
- * a c program that prints the exact sentence 
- * Return: always 0
+ *
+ * Description: A C program that prints the exact s 
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
