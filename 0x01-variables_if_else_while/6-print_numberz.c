@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Description: prints all the digit number of base 10 ; 
+ * Description: prints all the digit number; 
  *
  * Return: Always 0(Success)
  */
