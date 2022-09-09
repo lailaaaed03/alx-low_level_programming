@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * A C program that prints with the size of various types on the computer 
+ * description : A C program that prints with the size of various types on the computer 
  *
  * Return: Always 0 (Success)
  */
@@ -19,3 +19,4 @@ int main(void)
 
 	return (0);
 }
+
