@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Description: print all single digit numbers 
+ * Description: print all single digit n ;
  *
  * Return: Always 0(Success)
  */
