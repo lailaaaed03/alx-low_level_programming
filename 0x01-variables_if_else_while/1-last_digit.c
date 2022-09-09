@@ -3,9 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - main block
+ * main - Entry point 
+ *
  * Description: Print statements based on the last digit of a random chosen number.
- * Return: 0
+ * 
+ *Return: 0
  */
 
 int main(void)
